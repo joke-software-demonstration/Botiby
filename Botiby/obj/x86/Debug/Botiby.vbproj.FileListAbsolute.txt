@@ -1,0 +1,29 @@
+C:\Users\user\AppData\Local\Temporary Projects\Botiby\bin\Debug\Botiby.exe
+C:\Users\user\AppData\Local\Temporary Projects\Botiby\bin\Debug\Botiby.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Botiby\bin\Debug\Botiby.xml
+C:\Users\user\AppData\Local\Temporary Projects\Botiby\obj\x86\Debug\Botiby.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\Botiby\obj\x86\Debug\Botiby.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Botiby\obj\x86\Debug\Botiby.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\Botiby\obj\x86\Debug\Botiby.exe
+C:\Users\user\AppData\Local\Temporary Projects\Botiby\obj\x86\Debug\Botiby.xml
+C:\Users\user\AppData\Local\Temporary Projects\Botiby\obj\x86\Debug\Botiby.pdb
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\obj\x86\Debug\Botiby.exe
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\obj\x86\Debug\Botiby.xml
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\obj\x86\Debug\Botiby.pdb
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\bin\Debug\Botiby.exe
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\bin\Debug\Botiby.pdb
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\bin\Debug\Botiby.xml
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\obj\x86\Debug\Botiby.Form1.resources
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\obj\x86\Debug\Botiby.Resources.resources
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\obj\x86\Debug\Botiby.vbproj.GenerateResource.Cache
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\bin\Debug\Interop.WMPLib.dll
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\bin\Debug\AxInterop.WMPLib.dll
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\obj\x86\Debug\Interop.WMPLib.dll
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\obj\x86\Debug\Botiby.vbproj.ResolveComReference.cache
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\obj\x86\Debug\Botiby.BSOD.resources
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\obj\x86\Debug\Botiby.TaboolaManager.resources
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\bin\Debug\Botiby.exe.manifest
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\bin\Debug\Botiby.application
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\obj\x86\Debug\Botiby.exe.manifest
+D:\Development\Visual Basic 2010 Express\Source\Botiby\Botiby\Botiby\obj\x86\Debug\Botiby.application
